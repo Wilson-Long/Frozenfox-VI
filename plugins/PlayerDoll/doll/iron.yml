@@ -1,0 +1,52 @@
+Creation-Date: 2024.11.14 13:54:45 CST
+Last-Spawn-Date: 2024.11.14 13:54:45 CST
+Doll-Name: iron
+Doll-UUID: a9d458eb-52f9-478d-9a33-8970ca888b00
+Owner-Name: Morning_Wang
+Owner-UUID: e78d4634-b9d6-3bfc-a922-f7353e3336f6
+skin-property: ewogICJ0aW1lc3RhbXAiIDogMTczMTU2MzUxNzI2MywKICAicHJvZmlsZUlkIiA6ICJkNDUyYjIzODZjY2I0YWQ5OGYzZTdjYWJmNDQxMmNjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNb3JuaW5nX1dhbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODVmOTljYTA1ZWZhNjYzMmMwZjU0NzQ1M2E5YzBiMjg2ZjhmMGY4YTBlMWJlYzI0MjhmMTE5YjU3YWM3ZDc2NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9
+skin-signature: Wc4YsvNzGxWAZGzVe9LBzjJ3RKf2tJAdRqBfmLm/gfznul943JaG+G55pE48DBiGWlM3nP1uIL+yjgwSHeGKtc5xlsXK0laNEjlCmLSzBCXGSMTmOuBxjRxCE/9xzUzgstGWrcrO4yPpf3tjuKm1WcNszmxGCvraEbfAN/+LfwaXhQZJtIGICvj5BwOWZiUpA5SVW27lxFLKe2W7PywVPoUsjssZ3wQTiS213julryfojmbxXxfZta+ZnoGLKi65vDA4wPnRKppHklEl8n1LPxDzpXafKRCo1Brdv8u99YGEttjb037/zY0ZBZPPkL7Z49XNfjAhx3H/vNofZLp4yZvdKTu/joK6CUp3PwGhNg1A2Io7zZyR06PzGkfURA+7oXk3dQniKz7TMkjlEDW17kbK72EderjEGIqG+zZoAE9VF/ykpUQoWDyT9IRDlkj22jiESwK5jLAxfBBThFt6qn/J+qbUAG3QN9cmsVCRIPIq6a7NnGjWA3CrBAxSZgvWVXO6gaFb+LAzn+cvc7jiDL5zHgS6FGGtzqBRDPa0efnyYeAuFho4GsbAhGNlZnvAFZObD2nVUn9YwEdbOaBiXTQvbPVre2tPJWZpMIQN+LdRIlJvXLZP7bfG2duRxFZqvZUxLCSrn2/odZiw9QwHchwNiJ39GJD5MbSvW0o7cxU=
+last-join-server: ''
+Doll-Setting:
+  glow: false
+  gravity: true
+  hostility: true
+  hide_from_list: false
+  invulnerable: false
+  join_at_start: false
+  large_step_size: false
+  phantom: false
+  pickable: true
+  pushable: false
+  real_player_tick_update: false
+  real_player_tick_action: false
+General-Setting:
+  admin: false
+  attack: false
+  despawn: false
+  dismount: false
+  drop: false
+  echest: false
+  exp: false
+  gset: false
+  hidden: false
+  inv: false
+  jump: false
+  look: false
+  lookat: false
+  menu: false
+  mount: false
+  move: false
+  pset: false
+  set: false
+  slot: false
+  sneak: false
+  spawn: false
+  sprint: false
+  stop: false
+  swap: false
+  tp: false
+  turn: false
+  unsneak: false
+  unsprint: false
+  use: false

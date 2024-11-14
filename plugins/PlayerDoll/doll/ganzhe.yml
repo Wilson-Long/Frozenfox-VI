@@ -1,0 +1,52 @@
+Creation-Date: 2024.09.23 23:22:34 CST
+Last-Spawn-Date: 2024.09.23 23:22:34 CST
+Doll-Name: ganzhe
+Doll-UUID: 4036d193-6107-436c-b037-28d07cc1bfae
+Owner-Name: Morning_Wang
+Owner-UUID: e78d4634-b9d6-3bfc-a922-f7353e3336f6
+skin-property: ewogICJ0aW1lc3RhbXAiIDogMTcyNzEwMzU4MDYzMiwKICAicHJvZmlsZUlkIiA6ICJjYTRlMjYyNmE1NDg0MzZkODQ3MmQ0ZDYwYTgyYzAyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCYW9iYW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDVkMWM3MjU3Y2ZhNzU0NWU1YTQ5MWUzZjE2MmY4YTdlMTE0MWE2ODM3NDc0N2Y4OGUyY2RhMzVjYjljMDdkMyIKICAgIH0KICB9Cn0=
+skin-signature: iEXBPAlkMCwh8UqAN3GwlbWqxiM3jZsTHvsmP47LuITXQGM5a9MA/47J/Vnh1Ggv+o7QSQpJw+09qgs2DT8U/M/xsnrLqtgqd1p+LQkeobTi2Hud2mHYZb1Kgm3afUHk6rexZaqzELduexMPMbI9Ny03tqVpn86L4v100LRL0moMPex5ND59pLqI9Roiv4iPhd7xuihiy5LbrLYnGwY4KMh1mIWMyLcIPIwFF8VAUO+4ROuk5x8E6VqlA8HEMtakkHNhAjgftYNzwtJlhvD5Eaif54ohNdsSx/a/y+HMwwdQobWwYnXtzjwFEGgVrfWyAA/4YGsm8Wc3JhjUkboo4xTVqm3+xTd+hy6/s0ByyFYuDtde4T+3hpGN2P6PZdCP1T898fV9Bhlqdb1cz7RuSn/GsWkUkPdW5Xi3uY0s5zmq853ppsONVAJN3T/Shcto0XihR4JJDwU+Yvj7iOdKicQi5Eh4OzXoYTWMYJCSeOv1RQEiwhly3mhPaCxnZQdKatfbam5lUyE5q+TgWX7MUcj32I+88akWMmiTKH+rhqhqmXnbiiojLuSwaJGDc4OaYLmo26JVNTalR9Ag3JF0xFhanubexZ9WtBduuI8WNiSd2tjlrmBrHpxQC8oRZ4tlHD/4JHNy84N1k8sh7QGd+9qQsEw6tsb0HmuwfO8RnZs=
+last-join-server: ''
+Doll-Setting:
+  glow: false
+  gravity: true
+  hostility: true
+  hide_from_list: false
+  invulnerable: false
+  join_at_start: false
+  large_step_size: false
+  phantom: false
+  pickable: true
+  pushable: false
+  real_player_tick_update: false
+  real_player_tick_action: false
+General-Setting:
+  admin: false
+  attack: false
+  despawn: false
+  dismount: false
+  drop: false
+  echest: false
+  exp: false
+  gset: false
+  hidden: false
+  inv: false
+  jump: false
+  look: false
+  lookat: false
+  menu: false
+  mount: false
+  move: false
+  pset: false
+  set: false
+  slot: false
+  sneak: false
+  spawn: false
+  sprint: false
+  stop: false
+  swap: false
+  tp: false
+  turn: false
+  unsneak: false
+  unsprint: false
+  use: false

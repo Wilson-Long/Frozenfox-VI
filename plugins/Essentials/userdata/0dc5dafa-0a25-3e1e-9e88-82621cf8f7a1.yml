@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.223.217
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726591965495
+  login: 1726590872841
+money: '0'
+last-account-name: WYMLOVECXY
+lastlocation:
+  world: 2ef84b2d-9fc4-4b56-ab25-540edd7f7949
+  world-name: world
+  x: -2457.5
+  y: 74.0
+  z: 667.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 2ef84b2d-9fc4-4b56-ab25-540edd7f7949
+  world-name: world
+  x: -3001.8979973523465
+  y: 60.2007290204807
+  z: 3015.970361919892
+  yaw: 44.052490234375
+  pitch: 0.6628252863883972
